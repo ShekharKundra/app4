@@ -55,5 +55,5 @@ app.get("/*", (req, res) => {
 
 http.createServer(app).listen(port, () => {
 
-    console.log("SERVER IS RUNNING " + port);
+    console.log("SERVER IS x RUNNING " + port);
 });
